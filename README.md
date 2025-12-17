@@ -231,9 +231,3 @@ mypy app
 * Use proper CORS origins (don’t leave `"*"` in prod)
 * Add Sentry / OpenTelemetry for monitoring in production
 * Add rate-limiting if API is public
-
----
-
-## License
-
-MIT (or update as needed)
